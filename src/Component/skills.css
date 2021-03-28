@@ -1,0 +1,13 @@
+.myskills {
+    background-color: rgb(10, 6, 6);
+        height: 20vh;
+        border: 5px solid rgb(223, 223, 250);
+    
+}
+.listSkills{
+    list-style-type:square;
+}
+.listSkills li{
+    padding-left: 0px;
+    margin-left: 0px;
+}

@@ -1,0 +1,70 @@
+.toggler{
+    background-color: white;
+    margin-left: -10px;
+  }
+  .mybar{
+      color: black;
+      background-color: black;
+      font-size: 25px;
+  }
+
+.myside{
+    height: 600px;
+    background-color: blue;
+    margin-top: 20px;
+}
+.content{
+    height: 600px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.menuIcon{
+    font-size: 25px;
+    padding-right: 10px;
+}
+
+#separate{
+    color: white;
+    font-size: 20px;
+}
+.userPanel ul li{
+    list-style-type: none;
+    padding-top: 5px;
+}
+
+.fa-bars{
+    font-size: 25px;
+    color: white;
+
+}
+@media (max-width: 576px){
+    .name{
+        display: none;
+    }
+    .userPanel ul {
+     margin-left: -20px;
+    }
+    .userPanel ul li {
+        list-style-type: none;
+        display: inline-block;
+        padding-left: 10px;
+    }
+    .userPanel ul li a{
+        
+        font-size: 20px;
+    }
+    .myImage{
+        height: 150px;
+        width: 150px;
+    }
+    .toggle{
+        display: block;
+    }
+    .developer{
+        font-size: 25px;
+    }
+    .myside ul li{
+        display:inline-flexbox;
+    }
+}
