@@ -82,7 +82,7 @@ const Navbar = () => {
                 <a href="/workflow" className="nav-link">
                   <p className="text-white">
                   <i className="fa fa-cube nav-icon pr-3 menuIcon"></i>
-                  My Workflow</p>
+                  Skills</p>
                 </a>
               </li>
               <li className="nav-item pt-4">
