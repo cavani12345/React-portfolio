@@ -35,7 +35,7 @@ const About = () => {
                 <p>
                 My name is Edison Ngizwenayo, I’m graduate Software Developer.I work either on site or even remotely, I've spent the last 2years as a Junior web and mobile application developer specialized mostly in Laravel and React JS. I'm really passionate at transforming beautiful designs into full-fledged interactive web applications for various clients all around the world as well as developing clean and effective Restful API.
 
-My job involves doing what I love, developing new websites and applications. I absolutely love learning new things and taking on new challenges.For further detail about my professional capabilities and experience in software development domain, hit this link to view my Resume.
+My job involves doing what I love, developing new websites and applications. I absolutely love learning new things and taking on new challenges.For further detail about my professional capabilities and experience in software development domain.
                 </p>
             </div>
             </motion.div>
