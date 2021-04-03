@@ -6,7 +6,7 @@ const Footer = () => {
         <div>
             <footer className="main-footer bg-dark d-flex justify-content-center">
     <p>
-    <strong>Copyright &copy; {year} <a href="/">Edison </a>.  </strong>
+    <strong>Copyright &copy; {year} <a href="/about">Edison </a>.  </strong>
     All rights reserved.
     </p>
   </footer>
